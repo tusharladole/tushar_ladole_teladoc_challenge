@@ -70,7 +70,7 @@ Step-by-Step Guide to Clone a Project Using VCS in IntelliJ IDEA
     ![img_3.png](readmeImages/img_3.png)
 
     -This will open the Allure HTML report in local browser.
-    
+    ![img.png](readmeImages/img_4.png)
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
